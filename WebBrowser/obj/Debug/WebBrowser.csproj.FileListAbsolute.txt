@@ -1,0 +1,10 @@
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form2.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
